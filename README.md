@@ -1,5 +1,10 @@
-scripts
+# Git Helpful Scripts
 
-bgrep
+**bgrep**
 
-change-git-author
+find author wanted word
+
+**change-git-author**
+
+change commit author email and username
+note: for now you need the change emails and username in script.
