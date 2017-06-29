@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 # TODO
 # old_author_mail="old_email@sahibinden.com";
